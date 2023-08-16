@@ -1,4 +1,4 @@
-### Data 
+# Data 
 
 Depending on the size of your dataset this folder may be used to contain your raw and processed data, as per the default folders. 
 However, with some datasets the data is too large or sensitive to be version controlled and put on github. 
