@@ -34,7 +34,6 @@ What are the requirements and how to install?
 #### List of requirements:
 
 - Python version 3.9
-**Python modules requirements:**
 - tensorflow==2.3.1
 
 #### How to install:
