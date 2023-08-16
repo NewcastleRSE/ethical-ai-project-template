@@ -3,7 +3,7 @@
 This folder is intended to store the source code of the project. It should include all of the code needed to reproduce model results when paired with the relevant data.
 This readme documents the provenance and information pertinent to the code stored in this folder, as well as instructions for how a new user or collaborator can set up and run this code. 
 
-*NB: We have included a template requirements.txt file as a suggestion for a python based project, and example instructions for a pip install of these requirements.
+*NB: We have included a template [requirements.txt](https://learnpython.com/blog/python-requirements-file/) file as a suggestion for a python based project, and example instructions for a pip install of these requirements.
 If these are not relevant to your project please delete them from your repository, and this line of text.*
 
 ## Code Considerations
@@ -30,8 +30,21 @@ Ticked boxes indicate these things have been considered and where relevant docum
 ## Requirements
 What are the requirements and how to install?
 
-E.g. 
-(include generic example requirements and how to install those with pip here?)
+*Example requirements and installation instructions below for a python project* 
+#### List of requirements:
+
+- Python version 3.9
+**Python modules requirements:**
+- tensorflow==2.3.1
+
+#### How to install:
+
+1. Create a virtual environment with [conda](https://edcarp.github.io/introduction-to-conda-for-data-scientists/02-working-with-environments/index.html), [venv](https://docs.python.org/3/library/venv.html) or your [favourite environment, container provider](https://harvard-iacs.github.io/2020-AC295/lectures/lecture2/presentation/lecture2.pdf).
+2. Activate your new environment/ container.
+3. Ensure you are in this code directory
+4. Run `pip install -r requirements.txt`
+
+
 
 
 ## Running this code
