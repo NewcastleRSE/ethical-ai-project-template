@@ -12,9 +12,11 @@ To learn more about why we recommend creating a `CONTRIBUTING.md` file, please r
 
 <!--delete sentences above this line when reusing this repository-->
 
-The **Reproducible Project Template** repository is developed under ***[The Turing Way](https://github.com/alan-turing-institute/the-turing-way)* to demonstrate the practical integration of reproducibility practices on the collaborative or shared online repository**.
+The **Ethical AI Project Template** repository is developed under ***[The Turing Way](https://github.com/alan-turing-institute/the-turing-way)* to demonstrate the practical integration of reproducibility practices on the collaborative or shared online repository**.
 
-This project is being developed **openly** and invites contributions from **anyone interested** in reproducible data science who would like to get involved.
+This project is built on the [Reproducable Project Template](https://github.com/alan-turing-institute/reproducible-project-template) developed by Malvika Sharan, which is a project equally open to contributions if your interest is more broad than machine learning.
+
+This project is being developed **openly** and invites contributions from **anyone interested** in reproducible data science and ethical AI who would like to get involved.
 You can suggest topics to include in this repository, report mistakes/bugs, create Pull Requests to fix an error, offer resources or help develop or review the training materials.
 
 We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that applies to all the activities related to this project.
@@ -42,7 +44,7 @@ You can also share this repository with someone who might be interested to get i
 You can read our [README](./README.md) file to find details and the next milestones in the project.
 You can also read different issues in this repository and comment where you would like to be involved.
 
-🎉 It's my life's mission to enable reproducibility in data science and research
+🎉 I want to get stuck in to promoting ethical and thoughtful applications of machine learning and AI
 ---
 
 Please share feedback on the contents proposed for setting up an online collaborative repository for data science and research.
@@ -62,7 +64,7 @@ Please open a GitHub issue to suggest a new topic, contribute code, or let us kn
 📫 Contact
 ---
 
-For any organisation related queries or concerns, you can directly reach out to **Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)**.
+If you would like to get in touch with any questions, concerns or suggestions please add a github issue - this project is not owned by any one individual so that way the community involved can see and respond. 
 
 ♻️ License
 ---
