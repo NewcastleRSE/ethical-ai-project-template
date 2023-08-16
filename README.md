@@ -13,6 +13,27 @@ This repository includes the files and directories recommended for enabling repr
 This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
 When reusing this repository, please update the information on your README page with information about your project.
 
+## Responsible Data Science
+
+Before starting your project you should work through the [Decision Tree for the Responsible Application of Artificial Intelligence ](https://www.aaas.org/ai2/projects/decision-tree-practitioners) provided by the [AAAS Center for Scientific Responsibility](https://www.aaas.org/programs/scientific-responsibility-justice).
+
+This project has:
+
+- [ ] Developed a list of possible solutions to the problem along with each solution’s benefits and limitations, including the relative risk of using AI in this application.
+- [ ] Considered the training data, including procedures to periodically review the relevance and applicability of training data.
+- [ ] Considered the tool itself, including a testing regimen and go/no-go review points
+- [ ] Attempted to anticipate future risk and the various ways things could go wrong, legally, ethically, and morally. Researched analogous situations where automated decision-making has failed.
+
+### Data Warnings
+
+You are encouraged to apply warning logos depending on the context and data you are working with. The full set of warnings is available from [Data Hazards](https://datahazards.com/contents/data-hazards.html). Images are at standardised URLs, for example:
+
+```
+<img src="https://datahazards.com/_images/general-hazard.png" height="100" />
+```
+
+<img src="https://datahazards.com/_images/general-hazard.png" height="100" />
+
 ## Repo Structure
 
 Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science).
@@ -57,27 +78,6 @@ This repository template is forked from the [reproducible project template](http
 As an open-source repository, anyone beyond these teams is welcome to reuse this template for setting up their projects.
 
 *Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
-
-## Responsible Data Science
-
-Before starting your project you should work through the [Decision Tree for the Responsible Application of Artificial Intelligence ](https://www.aaas.org/ai2/projects/decision-tree-practitioners) provided by the [AAAS Center for Scientific Responsibility](https://www.aaas.org/programs/scientific-responsibility-justice).
-
-This project has:
-
-- [ ] Developed a list of possible solutions to the problem along with each solution’s benefits and limitations, including the relative risk of using AI in this application.
-- [ ] Considered the training data, including procedures to periodically review the relevance and applicability of training data.
-- [ ] Considered the tool itself, including a testing regimen and go/no-go review points
-- [ ] Attempted to anticipate future risk and the various ways things could go wrong, legally, ethically, and morally. Researched analogous situations where automated decision-making has failed.
-
-### Data Warnings
-
-You are encouraged to apply warning logos depending on the context and data you are working with. The full set of warnings is available from [Data Hazards](https://datahazards.com/contents/data-hazards.html). Images are at standardised URLs, for example:
-
-```
-<img src="https://datahazards.com/_images/general-hazard.png" height="100" />
-```
-
-<img src="https://datahazards.com/_images/general-hazard.png" height="100" />
 
 🎯 Roadmap
 ---
