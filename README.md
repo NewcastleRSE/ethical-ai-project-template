@@ -71,13 +71,13 @@ This project has:
 
 ### Data Warnings
 
-You are encouraged to apply warning logos depending on the context and data you are working with. The full set of warnings are available from [Data Hazards](https://datahazards.com/contents/data-hazards.html). Images are at standardised URLs, for example:
+You are encouraged to apply warning logos depending on the context and data you are working with. The full set of warnings is available from [Data Hazards](https://datahazards.com/contents/data-hazards.html). Images are at standardised URLs, for example:
 
 ```
 https://datahazards.com/_images/general-hazard.png
 ```
 
-![General Hazard]([http://url/to/img.png](https://datahazards.com/contents/data-hazards.html))
+<img src="https://datahazards.com/_images/general-hazard.png" height="100" />
 
 🎯 Roadmap
 ---
