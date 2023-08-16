@@ -2,8 +2,9 @@
 
 Depending on the size of your dataset this folder may be used to contain your raw and processed data, as per the default folders. 
 However, with some datasets the data is too large or sensitive to be version controlled and put on github. 
+
 In this case we would recommend updating the .gitignore to ignore this data folder and keep your data either locally or on a HPC/ cloud system as appropriate.
-Please then move this readme to the main folder so pertinant information about the data is still available and version controlled.
+Please then rename and move this readme to the main folder so pertinant information about the data is still available and version controlled.
 
 ## Data Overview
 
