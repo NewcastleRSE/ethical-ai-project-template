@@ -16,7 +16,7 @@ Ticked boxes indicate these things have been considered and where relevant docum
     NB: ensure logs include data set details used as well as time stamp, accuracy and other relevant metadata. 
 - [ ] Collaboration guidelines: Is this a collaborative project, if so are there guidelines in place for contributing, e.g. [pull request reviews](https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests) and [feature branches](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)? If so where?
 - [ ] Model provenance: are the models used pretrained, if so on what, or based on published work - include relevant links and citations in this readme. 
-- [ ] End user consideration (who are you building this for?)
+- [ ] End user consideration (who are you building this for? Are there any potential users who you have not considered, and any ethical considerations around this that may require you to restrict access to this code or to add warnings?)
 - [ ] Linting: are you using [code linting](https://towardsdatascience.com/come-on-lint-a-little-cleaning-up-your-code-with-linters-5d16b1bf19bd), or do you have any other guidelines around the development that need documenting here for collaborators to be aware of?
 
 ## Code or files included in this folder or subfolders
