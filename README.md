@@ -92,11 +92,6 @@ This project has:
 - [ ] Add cff file for citation
 - [ ] Add badges
 
-📫 Contact
----
-
-For any organisation-related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
-
 ♻️ License
 ---
 
