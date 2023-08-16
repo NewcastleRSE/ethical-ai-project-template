@@ -74,7 +74,7 @@ This project has:
 You are encouraged to apply warning logos depending on the context and data you are working with. The full set of warnings is available from [Data Hazards](https://datahazards.com/contents/data-hazards.html). Images are at standardised URLs, for example:
 
 ```
-https://datahazards.com/_images/general-hazard.png
+<img src="https://datahazards.com/_images/general-hazard.png" height="100" />
 ```
 
 <img src="https://datahazards.com/_images/general-hazard.png" height="100" />
